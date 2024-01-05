@@ -9,6 +9,8 @@ trigger:
 pool:
   vmImage: 'windows'
 
+# This is a new comment to test how codespaces work
+
 variables:
   solution: '**/*.sln'
   buildPlatform: 'Any CPU'
