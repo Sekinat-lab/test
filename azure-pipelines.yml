@@ -9,7 +9,7 @@ trigger:
 pool:
   vmImage: 'windows'
 
-# This is a new comment to test new how codespaces work test place
+# This is a new comment to test new how codespaces work test place newness
 
 variables:
   solution: '**/*.sln'
